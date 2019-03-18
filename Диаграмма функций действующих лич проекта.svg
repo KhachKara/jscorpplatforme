@@ -1,0 +1,1654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="821px"
+   height="347px"
+   version="1.1"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg493"
+   sodipodi:docname="Диаграмма функций действующих лич проекта.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata497">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview495"
+     showgrid="false"
+     inkscape:zoom="0.97840841"
+     inkscape:cx="284.92872"
+     inkscape:cy="103.62936"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg493" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">ul { margin-top: 0px; margin-bottom: 10px } 
+ol { margin-top: 0px; margin-bottom: 10px } 
+ul { margin-top: 0px; margin-bottom: 10px } 
+ol { margin-top: 0px; margin-bottom: 10px } 
+ul { margin-top: 0px; margin-bottom: 10px } 
+ol { margin-top: 0px; margin-bottom: 10px } 
+</style>
+    <path
+       inkscape:connector-curvature="0"
+       id="BkTaSZaB01k6.gBu-8"
+       d="M 0,11.9 H 146 M 0,25.5 h 146" />
+  </defs>
+  <g
+     transform="translate(0.5,0.5)"
+     id="g483">
+    <rect
+       x="324.5"
+       y="0"
+       width="150"
+       height="40"
+       fill="#d4e1f5"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect6" />
+    <g
+       transform="translate(326.5,6.5)"
+       id="g21">
+      <switch
+         id="switch19">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="146"
+           height="26"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 146px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">Функции действующих лиц проекта</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="146"
+           height="26"
+           style="width: 146px; height: 26px;"
+           version="1.1"
+           id="svg17">
+          <defs
+             id="defs9">
+            <path
+               id="BkTaSZaB01k6.gBu"
+               d="M0,11.899999999999999 h146 M0,25.5 h146" />
+          </defs>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="0"
+       y="92"
+       width="100"
+       height="40"
+       fill="#ffb570"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect23" />
+    <g
+       transform="translate(1.5,105.5)"
+       id="g38">
+      <switch
+         id="switch36">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">Администратор</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg34">
+          <defs
+             id="defs26">
+            <path
+               id="JkTaSZaB01k6.gBv"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text32">
+            <textPath
+               xlink:href="#JkTaSZaB01k6.gBv"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath30"><tspan
+   xml:space="preserve"
+   id="tspan28">Администратор</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="162"
+       y="92"
+       width="100"
+       height="40"
+       fill="#ffb570"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect40" />
+    <g
+       transform="translate(163.5,105.5)"
+       id="g55">
+      <switch
+         id="switch53">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">Куратор</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg51">
+          <defs
+             id="defs43">
+            <path
+               id="5kTaSZaB01k6.gBw"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text49">
+            <textPath
+               xlink:href="#5kTaSZaB01k6.gBw"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath47"><tspan
+   xml:space="preserve"
+   id="tspan45">Куратор</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 399.5 40 L 399.5 66 L 50 66 L 50 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path57" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 212 66 L 212 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path59" />
+    <rect
+       x="70"
+       y="154"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect61" />
+    <g
+       transform="translate(71.5,167.5)"
+       id="g76">
+      <switch
+         id="switch74">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg72">
+          <defs
+             id="defs64">
+            <path
+               id="1kTaSZaB01k6.gBx"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text70">
+            <textPath
+               xlink:href="#1kTaSZaB01k6.gBx"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath68"><tspan
+   xml:space="preserve"
+   id="tspan66">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 50 132 L 50 174 L 70 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path78" />
+    <rect
+       x="70"
+       y="228.75"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect80" />
+    <g
+       transform="translate(71.5,242.5)"
+       id="g95">
+      <switch
+         id="switch93">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg91">
+          <defs
+             id="defs83">
+            <path
+               id="dkTaSZaB01k6.gBy"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text89">
+            <textPath
+               xlink:href="#dkTaSZaB01k6.gBy"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath87"><tspan
+   xml:space="preserve"
+   id="tspan85">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 50 132 L 50 249 L 70 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path97" />
+    <rect
+       x="70"
+       y="303.5"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect99" />
+    <g
+       transform="translate(71.5,317.5)"
+       id="g114">
+      <switch
+         id="switch112">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg110">
+          <defs
+             id="defs102">
+            <path
+               id="TkTaSZaB01k6.gBz"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text108">
+            <textPath
+               xlink:href="#TkTaSZaB01k6.gBz"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath106"><tspan
+   xml:space="preserve"
+   id="tspan104">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 50 132 L 50 324 L 70 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path116" />
+    <rect
+       x="232"
+       y="154"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect118" />
+    <g
+       transform="translate(233.5,167.5)"
+       id="g133">
+      <switch
+         id="switch131">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg129">
+          <defs
+             id="defs121">
+            <path
+               id="rkTaSZaB01k6.gB0"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text127">
+            <textPath
+               xlink:href="#rkTaSZaB01k6.gB0"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath125"><tspan
+   xml:space="preserve"
+   id="tspan123">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="232"
+       y="228.75"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect135" />
+    <g
+       transform="translate(233.5,242.5)"
+       id="g150">
+      <switch
+         id="switch148">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg146">
+          <defs
+             id="defs138">
+            <path
+               id="7kTaSZaB01k6.gB1"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text144">
+            <textPath
+               xlink:href="#7kTaSZaB01k6.gB1"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath142"><tspan
+   xml:space="preserve"
+   id="tspan140">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="232"
+       y="303.5"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect152" />
+    <g
+       transform="translate(233.5,317.5)"
+       id="g167">
+      <switch
+         id="switch165">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg163">
+          <defs
+             id="defs155">
+            <path
+               id="XkTaSZaB01k6.gB2"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text161">
+            <textPath
+               xlink:href="#XkTaSZaB01k6.gB2"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath159"><tspan
+   xml:space="preserve"
+   id="tspan157">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 212 132 L 212 174 L 232 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path169" />
+    <path
+       d="M 212 132 L 212 249 L 232 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path171" />
+    <path
+       d="M 212 132 L 212 324 L 232 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path173" />
+    <rect
+       x="324"
+       y="92"
+       width="100"
+       height="40"
+       fill="#ffb570"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect175" />
+    <g
+       transform="translate(325.5,105.5)"
+       id="g190">
+      <switch
+         id="switch188">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">Специалист</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg186">
+          <defs
+             id="defs178">
+            <path
+               id="_kTaSZaB01k6.gB3"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text184">
+            <textPath
+               xlink:href="#_kTaSZaB01k6.gB3"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath182"><tspan
+   xml:space="preserve"
+   id="tspan180">Специалист</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="394"
+       y="154"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect192" />
+    <g
+       transform="translate(395.5,167.5)"
+       id="g207">
+      <switch
+         id="switch205">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg203">
+          <defs
+             id="defs195">
+            <path
+               id="QUTaSZaB01k6.gB4"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text201">
+            <textPath
+               xlink:href="#QUTaSZaB01k6.gB4"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath199"><tspan
+   xml:space="preserve"
+   id="tspan197">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="394"
+       y="228.75"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect209" />
+    <g
+       transform="translate(395.5,242.5)"
+       id="g224">
+      <switch
+         id="switch222">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg220">
+          <defs
+             id="defs212">
+            <path
+               id="oUTaSZaB01k6.gB5"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text218">
+            <textPath
+               xlink:href="#oUTaSZaB01k6.gB5"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath216"><tspan
+   xml:space="preserve"
+   id="tspan214">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="394"
+       y="303.5"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect226" />
+    <g
+       transform="translate(395.5,317.5)"
+       id="g241">
+      <switch
+         id="switch239">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg237">
+          <defs
+             id="defs229">
+            <path
+               id="4UTaSZaB01k6.gB6"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text235">
+            <textPath
+               xlink:href="#4UTaSZaB01k6.gB6"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath233"><tspan
+   xml:space="preserve"
+   id="tspan231">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 399.5 40 L 399.5 66 L 374 66 L 374 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path243" />
+    <path
+       d="M 374 132 L 374 174 L 394 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path245" />
+    <path
+       d="M 374 132 L 374 249 L 394 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path247" />
+    <path
+       d="M 374 132 L 374 324 L 394 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path249" />
+    <rect
+       x="487"
+       y="92"
+       width="100"
+       height="40"
+       fill="#ffb570"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect251" />
+    <g
+       transform="translate(488.5,105.5)"
+       id="g266">
+      <switch
+         id="switch264">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">Новатор</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg262">
+          <defs
+             id="defs254">
+            <path
+               id="0UTaSZaB01k6.gB7"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text260">
+            <textPath
+               xlink:href="#0UTaSZaB01k6.gB7"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath258"><tspan
+   xml:space="preserve"
+   id="tspan256">Новатор</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="557"
+       y="154"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect268" />
+    <g
+       transform="translate(558.5,167.5)"
+       id="g283">
+      <switch
+         id="switch281">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg279">
+          <defs
+             id="defs271">
+            <path
+               id="cUTaSZaB01k6.gB8"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text277">
+            <textPath
+               xlink:href="#cUTaSZaB01k6.gB8"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath275"><tspan
+   xml:space="preserve"
+   id="tspan273">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="557"
+       y="228.75"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect285" />
+    <g
+       transform="translate(558.5,242.5)"
+       id="g300">
+      <switch
+         id="switch298">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg296">
+          <defs
+             id="defs288">
+            <path
+               id="SUTaSZaB01k6.gB9"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text294">
+            <textPath
+               xlink:href="#SUTaSZaB01k6.gB9"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath292"><tspan
+   xml:space="preserve"
+   id="tspan290">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="557"
+       y="303.5"
+       width="100"
+       height="40"
+       fill="#ffce9f"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect302" />
+    <g
+       transform="translate(558.5,317.5)"
+       id="g317">
+      <switch
+         id="switch315">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg313">
+          <defs
+             id="defs305">
+            <path
+               id="qUTaSZaB01k6.gB."
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text311">
+            <textPath
+               xlink:href="#qUTaSZaB01k6.gB."
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath309"><tspan
+   xml:space="preserve"
+   id="tspan307">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 399.5 40 L 399.5 66 L 537 66 L 537 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path319" />
+    <path
+       d="M 537 132 L 537 174 L 557 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path321" />
+    <path
+       d="M 537 132 L 537 249 L 557 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path323" />
+    <path
+       d="M 537 132 L 537 324 L 557 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path325" />
+    <rect
+       x="648"
+       y="92"
+       width="100"
+       height="40"
+       fill="#9ac7bf"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect327" />
+    <g
+       transform="translate(649.5,105.5)"
+       id="g342">
+      <switch
+         id="switch340">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">Ментор</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg338">
+          <defs
+             id="defs330">
+            <path
+               id="mUTaSZaB01k6.gB_"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text336">
+            <textPath
+               xlink:href="#mUTaSZaB01k6.gB_"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath334"><tspan
+   xml:space="preserve"
+   id="tspan332">Ментор</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="718"
+       y="154"
+       width="100"
+       height="40"
+       fill="#d5e8d4"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect344" />
+    <g
+       transform="translate(719.5,167.5)"
+       id="g359">
+      <switch
+         id="switch357">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg355">
+          <defs
+             id="defs347">
+            <path
+               id="OUTaSZaB01k6.gCA"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text353">
+            <textPath
+               xlink:href="#OUTaSZaB01k6.gCA"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath351"><tspan
+   xml:space="preserve"
+   id="tspan349">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="718"
+       y="228.75"
+       width="100"
+       height="40"
+       fill="#d5e8d4"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect361" />
+    <g
+       transform="translate(719.5,242.5)"
+       id="g376">
+      <switch
+         id="switch374">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg372">
+          <defs
+             id="defs364">
+            <path
+               id="BUTaSZaB01k6.gCB"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text370">
+            <textPath
+               xlink:href="#BUTaSZaB01k6.gCB"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath368"><tspan
+   xml:space="preserve"
+   id="tspan366">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <rect
+       x="718"
+       y="303.5"
+       width="100"
+       height="40"
+       fill="#d5e8d4"
+       stroke="#000000"
+       pointer-events="none"
+       id="rect378" />
+    <g
+       transform="translate(719.5,317.5)"
+       id="g393">
+      <switch
+         id="switch391">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="96"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: normal; overflow-wrap: break-word; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; text-align: inherit; text-decoration: inherit; width: 100%;">???</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <svg
+           width="96"
+           height="12"
+           style="width: 96px; height: 12px;"
+           version="1.1"
+           id="svg389">
+          <defs
+             id="defs381">
+            <path
+               id="xUTaSZaB01k6.gCC"
+               d="M0,11.899999999999999 h96" />
+          </defs>
+          <text
+             fill="rgb(0, 0, 0)"
+             font-size="12px"
+             font-family="Helvetica"
+             font-weight="400"
+             id="text387">
+            <textPath
+               xlink:href="#xUTaSZaB01k6.gCC"
+               startOffset="50%"
+               text-anchor="middle"
+               id="textPath385"><tspan
+   xml:space="preserve"
+   id="tspan383">???</tspan></textPath>
+          </text>
+        </svg>
+      </switch>
+    </g>
+    <path
+       d="M 399.5 40 L 399.5 66 L 698 66 L 698 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path395" />
+    <path
+       d="M 698 132 L 698 174 L 718 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path397" />
+    <path
+       d="M 698 132 L 698 249 L 718 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path399" />
+    <path
+       d="M 698 132 L 698 324 L 718 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path401" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 50 66 L 50 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path403" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 212 66 L 212 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path405" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 374 66 L 374 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path407" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 537 66 L 537 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path409" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 698 66 L 698 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path411" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 50 66 L 50 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path413" />
+    <path
+       d="M 50 132 L 50 174 L 70 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path415" />
+    <path
+       d="M 50 132 L 50 249 L 70 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path417" />
+    <path
+       d="M 50 132 L 50 324 L 70 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path419" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 212 66 L 212 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path421" />
+    <path
+       d="M 212 132 L 212 174 L 232 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path423" />
+    <path
+       d="M 212 132 L 212 249 L 232 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path425" />
+    <path
+       d="M 212 132 L 212 324 L 232 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path427" />
+    <path
+       d="M 50 132 L 50 174 L 70 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path429" />
+    <path
+       d="M 50 132 L 50 249 L 70 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path431" />
+    <path
+       d="M 50 132 L 50 324 L 70 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path433" />
+    <path
+       d="M 212 132 L 212 174 L 232 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path435" />
+    <path
+       d="M 212 132 L 212 249 L 232 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path437" />
+    <path
+       d="M 212 132 L 212 324 L 232 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path439" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 374 66 L 374 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path441" />
+    <path
+       d="M 374 132 L 374 174 L 394 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path443" />
+    <path
+       d="M 374 132 L 374 249 L 394 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path445" />
+    <path
+       d="M 374 132 L 374 324 L 394 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path447" />
+    <path
+       d="M 374 132 L 374 174 L 394 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path449" />
+    <path
+       d="M 374 132 L 374 249 L 394 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path451" />
+    <path
+       d="M 374 132 L 374 324 L 394 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path453" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 537 66 L 537 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path455" />
+    <path
+       d="M 537 132 L 537 174 L 557 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path457" />
+    <path
+       d="M 537 132 L 537 249 L 557 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path459" />
+    <path
+       d="M 537 132 L 537 324 L 557 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path461" />
+    <path
+       d="M 537 132 L 537 174 L 557 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path463" />
+    <path
+       d="M 537 132 L 537 249 L 557 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path465" />
+    <path
+       d="M 537 132 L 537 324 L 557 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path467" />
+    <path
+       d="M 399.5 40 L 399.5 66 L 698 66 L 698 92"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path469" />
+    <path
+       d="M 698 132 L 698 174 L 718 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path471" />
+    <path
+       d="M 698 132 L 698 249 L 718 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path473" />
+    <path
+       d="M 698 132 L 698 324 L 718 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path475" />
+    <path
+       d="M 698 132 L 698 174 L 718 174"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path477" />
+    <path
+       d="M 698 132 L 698 249 L 718 249"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path479" />
+    <path
+       d="M 698 132 L 698 324 L 718 324"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path481" />
+  </g>
+  <g
+     fill="#787878"
+     font-family="Arial,Helvetica"
+     font-size="12px"
+     id="g487" />
+  <g
+     fill="#787878"
+     font-family="Arial,Helvetica"
+     text-anchor="end"
+     font-size="12px"
+     id="g491" />
+  <text
+     transform="translate(329.90723,6.4200469)"
+     style="font-weight:400;font-size:12px;font-family:Helvetica;fill:#000000"
+     font-size="12px"
+     font-weight="400"
+     id="text15">
+    <textPath
+       xlink:href="#BkTaSZaB01k6.gBu-8"
+       id="textPath13"><tspan
+   xml:space="preserve"
+   id="tspan11">Функции действующих              лиц проекта</tspan></textPath>
+  </text>
+</svg>
